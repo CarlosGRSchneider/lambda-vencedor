@@ -1,0 +1,7 @@
+utils\MailerUtil.class
+entidade\LambdaDto.class
+entidade\Vencedor.class
+sql\Query.class
+lambda\Main.class
+ses\SesMailer.class
+entidade\Email.class
